@@ -158,5 +158,5 @@ clean_df = sage.fit_transform(df, target='Churn')
 ---
 
 > May your features be sharp, your noise be silent, and your models be ever wise.  
-> — *The Book of Sage, Page 1*
+> — *The Book of Sage, Page 1.*
 
